@@ -12,6 +12,13 @@ ImageNet dataset, we propose the ImageNet-S dataset with 1.2 million training im
 The ImageNet-S dataset contains 1183322 training, 12419 validation, and 27423 testing images from 919 categories.
 We annotate 39842 val/test images and 9190 training images with precise pixel-level masks.
 
+| Dataset | category | train   | val   | test  |
+|------------------|----------|---------|-------|-------|
+| ImageNet-S_{50}  | 50       | 64431   | 752   | 1682  |
+| ImageNet-S_{300} | 300      | 384862  | 4097  | 9088  |
+| ImageNet-S        | 919      | 1183322 | 12419 | 27423 |
+
+
 [ImageNet-S Download Link](https://github.com/UnsupervisedSemanticSegmentation/ImageNet-S)
 
 ### Online benchmark
@@ -20,7 +27,7 @@ Coming soon.
 
 ### Citation
 ```
-@article{gao2021large,
+@article{gao2021luss,
   title={Large-scale Unsupervised Semantic Segmentation},
   author={Gao, Shanghua and Li, Zhong-Yu and Yang, Ming-Hsuan and Cheng, Ming-Ming and Han, Junwei and Torr, Philip},
   journal={arXiv preprint arXiv:2106.03149},
