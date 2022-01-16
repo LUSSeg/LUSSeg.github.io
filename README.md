@@ -2,6 +2,8 @@
 
 This is a Large-scale Unsupervised Semantic Segmentation benchmark.
 
+![sample_vis](https://user-images.githubusercontent.com/20515144/149650063-cd28c7aa-2062-4379-a326-4dcd593495a5.jpg)
+
 ### Introduction
 Powered by the ImageNet dataset, unsupervised learning on large-scale data has made significant advances for classification
 tasks. There are two major challenges to allowing such an attractive learning modality for segmentation tasks: i) a large-scale benchmark
@@ -15,7 +17,6 @@ identifying the challenges and possible directions of LUSS. The benchmark and so
 ### ImageNet-S dataset
 The ImageNet-S dataset contains 1183322 training, 12419 validation, and 27423 testing images from 919 categories.
 We annotate 39842 val/test images and 9190 training images with precise pixel-level masks.
-![image](https://user-images.githubusercontent.com/20515144/149649442-47f10a78-07e0-4dad-9046-7bf3d38445cf.png)
 
 [ImageNet-S Download Link](https://github.com/UnsupervisedSemanticSegmentation/ImageNet-S)
 
