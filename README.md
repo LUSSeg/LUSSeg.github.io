@@ -47,6 +47,7 @@ The submission file has the following structure:
 
 You must submit your results to the corresponding protocols, and **miss-matched submissions will be deleted**.
 We summarize a table for different protocols:
+
 |      Actions          | Fully unsupervised | Distance matching | Semi-supervised | Free |
 |:---------------------:|--------------------|-------------------|-----------------|------|
 | ImageNet-S~{50/300/full} only^{note1}   |     ✓                |     ✓   |     ✓          |      |
