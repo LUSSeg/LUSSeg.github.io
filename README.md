@@ -1,4 +1,4 @@
-## Large-scale Unsupervised Semantic Segmentation
+# Large-scale Unsupervised Semantic Segmentation
 
 This is a Large-scale Unsupervised Semantic Segmentation benchmark.
 
