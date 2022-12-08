@@ -12,6 +12,9 @@ ImageNet dataset, we propose the ImageNet-S dataset with 1.2 million training im
 # Applications and Sourcecodes
 
 ## Unsupervised semantic segmentation
+
+<img width="757" alt="image" src="https://user-images.githubusercontent.com/20515144/206393139-c1d1f36e-8c78-4a6a-a3b5-f3b4e9e0dbd3.png">
+
 The Large-scale Unsupervised Semantic Segmentation (LUSS)
 task aims to assign labels from hundreds of categories to pixels from
 millions of images without the help of human annotation. The model
